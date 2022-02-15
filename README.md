@@ -7,7 +7,6 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -33,11 +32,6 @@ Users should be able to:
 
 ![](./images/desktop.png)
 ![](./images/mobile.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 I started this MONTHS ago. Really, I did this a long time ago, then I had to start a new semester at uni and I completely forgot about web design. I finished the semester in February and decided to continue with this challenge, because I want to keep practicing and learning. 
